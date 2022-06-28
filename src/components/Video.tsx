@@ -1,7 +1,9 @@
 export function Video() {
   return (
     <>
-      <h1>Hola Video</h1>
+      <div className='bg-black flex-1'>
+        <h1>Hola Video</h1>
+      </div>
     </>
   );
 }
